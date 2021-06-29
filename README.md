@@ -54,7 +54,7 @@
 
   <br>
   <img alt="Idea Proposal" src="https://img.shields.io/badge/-Idea_Proposal-green?style=for-the-badge&logo=microsoft&logo-color=white"/>
-  <img alt="Hackathon" src="https://img.shields.io/badge/-Hacathon-lightgrey?style=for-the-badge&logo=node-dot-js&logo-color=white"/>
+  <img alt="Hackathon" src="https://img.shields.io/badge/-Hackathon-lightgrey?style=for-the-badge&logo=node-dot-js&logo-color=white"/>
   <br>
 
   We devised a conceptual self evolving eco-friendly energy circulation system within EV that provides a platform to expand promising P2P power transaction market based on blockchain and V2X technology.
