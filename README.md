@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to GHMewha
 
-You can use the [editor on GitHub](https://github.com/GHMewha/GHMewha.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![GHMewha](https://avatars.githubusercontent.com/u/77783038?s=200&v=4)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+### Introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- We are final year Electronic and Electrical Engineering undergraduate students from Ewha Womans University. 🌸 We aim to build an IoT based autonomous car project based on our strong knowledge and broad experience on H/W design and S/W programming. 🛠
 
-```markdown
-Syntax highlighted code block
+### Ongoing Projects
 
-# Header 1
-## Header 2
-### Header 3
+- Model-G 🚗
 
-- Bulleted
-- List
+  <img src ="https://user-images.githubusercontent.com/37402072/123750661-d0fea780-d8f1-11eb-80b7-3511c910038a.jpg" width = 400px/>
 
-1. Numbered
-2. List
+  We are currently working on Model-G, an autonomous remote controlled car with endless attempts to apply various techonologies to upgrade our performance.
+  
+  [Visit Model-G Repository(Currently Private)](https://github.com/GHMewha/Model-G)
 
-**Bold** and _Italic_ and `Code` text
+### Past Projects
 
-[Link](url) and ![Image](src)
-```
+- C2C ⚡ Contestant of *Girls in ICT-LG Ericsson Hackathon 2020* 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  <img src ="https://user-images.githubusercontent.com/37402072/123754560-fee5eb00-d8f5-11eb-961c-2e8f1dbe6c19.png" width = 400px/>
 
-### Jekyll Themes
+  We devised a conceptual self evolving eco-friendly energy circulation system within EV that provides a platform to expand promising P2P power transaction market based on blockchain and V2X technology.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GHMewha/GHMewha.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  Our proposal has been highly evaluated for unexceptional creativity and innovation from the judges.
