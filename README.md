@@ -36,7 +36,7 @@
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white"/>
   <img alt="CMake" src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <br>
@@ -47,9 +47,15 @@
 
 ### Past Projects
 
-- C2C ⚡ Contestant of *Girls in ICT-LG Ericsson Hackathon 2020* 
+- C2C ⚡ 
+  > Contestant of *Girls in ICT-LG Ericsson Hackathon 2020* 
 
   <img src ="https://user-images.githubusercontent.com/37402072/123754560-fee5eb00-d8f5-11eb-961c-2e8f1dbe6c19.png" width = 400px/>
+
+  <br>
+  <img alt="Idea Proposal" src="https://img.shields.io/badge/-Idea_Proposal-green?style=for-the-badge&logo=microsoft&logo-color=white"/>
+  <img alt="Hackathon" src="https://img.shields.io/badge/-Hacathon-lightgrey?style=for-the-badge&logo=node-dot-js&logo-color=white"/>
+  <br>
 
   We devised a conceptual self evolving eco-friendly energy circulation system within EV that provides a platform to expand promising P2P power transaction market based on blockchain and V2X technology.
 
