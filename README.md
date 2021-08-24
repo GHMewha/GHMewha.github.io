@@ -27,6 +27,15 @@
 
 ### Ongoing Projects
 
+-  Analog Circuit Design Project 🎛
+
+   **DC/DC Converters**
+   - Linear-mode Converter (Low Drop Out)
+   - Switching-mode Converter
+     - Buck Converter
+
+---
+
 - Model-G 🚗
     
   <img src ="https://user-images.githubusercontent.com/37402072/123750661-d0fea780-d8f1-11eb-80b7-3511c910038a.jpg" width = 400px/>
